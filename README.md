@@ -7,7 +7,7 @@ OpenCV 顏色辨識
 
 ## openCV
 1. 對遊戲視窗截圖
-2. 最image做灰階圖轉換
+2. 對image做灰階圖轉換
 3. 用 cv2.HoughCircles() 標出圓形的圓心
 4. 找出單位像素不一樣的值
 
