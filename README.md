@@ -4,7 +4,6 @@ OpenCV 顏色辨識
     py -3.8 -m pip install pyautogui
     py -3.8 -m pip install opencv_python
     py -3.8 -m pip install numpy
-    py -3.8 -m pip install pillow
 
 ## openCV
 1. 對遊戲視窗截圖
