@@ -8,9 +8,6 @@ import time
 
 import keyboard  # using module keyboard
 
-from PIL import Image, ImageEnhance
-from operator import itemgetter, attrgetter
-
 while(1):
 
     img = pyautogui.screenshot( 'foo.png', region = [750, 450, 450, 500])
