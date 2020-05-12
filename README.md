@@ -1,5 +1,4 @@
 # lyto_color
-OpenCV 顏色辨識
 
     py -3.8 -m pip install pyautogui
     py -3.8 -m pip install opencv_python
